@@ -36,7 +36,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Favorite Something" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sGk-6n-eh9">
-                                                    <rect key="frame" x="31" y="56" width="147.5" height="21"/>
+                                                    <rect key="frame" x="31" y="50.5" width="147.5" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -45,7 +45,7 @@
                                             <constraints>
                                                 <constraint firstItem="One-cl-wvV" firstAttribute="leading" secondItem="wbi-Mz-OFa" secondAttribute="leadingMargin" constant="16" id="U6w-B9-ZdR"/>
                                                 <constraint firstItem="One-cl-wvV" firstAttribute="top" secondItem="wbi-Mz-OFa" secondAttribute="topMargin" constant="8" id="euS-40-pMj"/>
-                                                <constraint firstItem="sGk-6n-eh9" firstAttribute="bottom" secondItem="wbi-Mz-OFa" secondAttribute="bottomMargin" constant="8" id="hBM-pZ-Gjf"/>
+                                                <constraint firstAttribute="bottom" secondItem="sGk-6n-eh9" secondAttribute="bottom" constant="8" id="jDF-kV-C4R"/>
                                                 <constraint firstItem="sGk-6n-eh9" firstAttribute="leading" secondItem="wbi-Mz-OFa" secondAttribute="leadingMargin" constant="16" id="x7w-0o-QZD"/>
                                             </constraints>
                                         </tableViewCellContentView>
